@@ -1,2 +1,4 @@
 # go-password-validator
-A simple go script to validate you password!!!
+A simple go script to validate your password!!!
+
+author @Thembinkosi
